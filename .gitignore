@@ -1,0 +1,32 @@
+Maven
+
+target/
+pom.xml.tag
+pom.xml.bak
+release.properties
+dependency-check-report.html
+dependency-check-report.xml
+
+Eclipse
+
+.classpath
+.project
+.settings/
+bin/
+temp/
+
+OS/System Files
+
+.DS_Store
+Thumbs.db
+
+Logs
+
+*.log
+log/
+tmp/
+
+Jars (should be managed by Maven, but good for local protection)
+
+*.jar
+*.war
