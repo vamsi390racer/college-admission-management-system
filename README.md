@@ -3,7 +3,6 @@ This is a console-based application developed in Java to automate and manage the
 The project relies on JDBC (Java Database Connectivity) to establish a connection between the core Java application logic and a MySQL database for persistent data storage. Maven is used as the build tool for dependency and project management.
 
 🚀 Technologies Used
-
 The following tools and technologies are essential for running this project:
 
 Core Language: Java (JDK 17 or higher)
